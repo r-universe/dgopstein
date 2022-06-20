@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clust.bin.pair"]
+	path = clust.bin.pair
+	url = https://github.com/dgopstein/clust.bin.pair
+	shallow = true
+	registered = true
